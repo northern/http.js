@@ -1,2 +1,3 @@
 # http.js
-An easy to HTTP request client
+
+An easy to use JavaScript HTTP request client.

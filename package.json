@@ -1,0 +1,19 @@
+{
+  "name": "@northern/http.js",
+  "version": "0.0.1",
+  "description": "An easy to use JavaScript HTTP request client",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northern/http.js.git"
+  },
+  "keywords": ["http", "request", "library"],
+  "author": "northern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/northern/http.js/issues"
+  },
+  "homepage": "https://github.com/northern/http.js#readme"
+}
