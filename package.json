@@ -1,6 +1,6 @@
 {
-  "name": "@northern/http.js",
-  "version": "0.0.3",
+  "name": "@northern/http",
+  "version": "0.0.4",
   "description": "An easy to use JavaScript HTTP request client",
   "main": "lib/index.js",
   "scripts": {
